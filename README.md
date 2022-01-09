@@ -1,1 +1,2 @@
-hello world
+### Specification
+The MAIN api, is a RESTful api that allows users to connect via HTTP to interact with our database of accounts. Using RESTful named functions users can; get info, create and remove accounts from our database. However due to the sensitivity of the data; we do not allow a user to update/modify any existing account. Additionaly there is a get_health function to confirm the service is active.
